@@ -21,6 +21,13 @@ A user-friendly interface was developed to demo the model interactively:
 **Screenshot:**  
 ![Gradio Interface](https://github.com/AmmarMazen7/DRUGORITHM/blob/main/capture%20test2.png?raw=true)   
 
+
+
+
+
+ **Test:**  
+![Gradio Interface](https://github.com/AmmarMazen7/DRUGORITHM/blob/main/Capture_test1.png?raw=true)   
+
 ### 🛠 **Hackathon Context:**  
 Developed during a hackathon to explore multimodal AI for medical imaging, combining:  
 - **Computer Vision** (X-ray feature extraction)  
