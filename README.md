@@ -19,7 +19,7 @@ A user-friendly interface was developed to demo the model interactively:
   - Real-time model predictions.  
 
 **Screenshot:**  
-![Gradio Interface](https://github.com/AmmarMazen7/DRUGORITHM/blob/main/capture%20test2.png?raw=true)   
+![Gradio Interface](https://github.com/AmmarMazen7/DRUGORITHM/blob/main/Capture_test2.png?raw=true)   
 
 
 
