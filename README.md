@@ -1,4 +1,4 @@
-# 🚀 **#DRUGGORITHM Hackathon Project**  
+# 🚀 **#DRUGORITHM Hackathon Project**  
 
 **Model Type:** Multimodal Fine-tuned Model (Image + Text → Text)  
 **Dataset:** Chest X-rays (Images + Text Descriptions)  
@@ -9,7 +9,7 @@
   - **Image:** Chest X-ray scans  
   - **Text:** Accompanying clinical notes or prompts  
 - **Output:** Textual analysis (e.g., diagnoses, observations)  
-- **Framework:** Fine-tuned using a vision-language model (e.g., BLIP, LLaVA, or custom architecture).  
+- **Framework:** Fine-tuned using a vision-language model (SmallVLM2).  
 
 ### 🖥 **Gradio Interface**  
 A user-friendly interface was developed to demo the model interactively:  
@@ -19,7 +19,7 @@ A user-friendly interface was developed to demo the model interactively:
   - Real-time model predictions.  
 
 **Screenshot:**  
-![Gradio Interface](https://github.com/AmmarMazen7/DRUGGORITHM/blob/main/capture%20test2.png?raw=true)   
+![Gradio Interface](https://github.com/AmmarMazen7/DRUGORITHM/blob/main/capture%20test2.png?raw=true)   
 
 ### 🛠 **Hackathon Context:**  
 Developed during a hackathon to explore multimodal AI for medical imaging, combining:  
@@ -31,4 +31,4 @@ Developed during a hackathon to explore multimodal AI for medical imaging, combi
 - Educational tool for medical trainees.  
 - Efficient triaging in resource-constrained settings.  
 
-*Built with ❤️ during #DRUGGORITHM!*  
+*Built with ❤️ during #DRUGORITHM!*  
