@@ -9,7 +9,7 @@
   - **Image:** Chest X-ray scans  
   - **Text:** Accompanying clinical notes or prompts  
 - **Output:** Textual analysis (e.g., diagnoses, observations)  
-- **Framework:** Fine-tuned using a vision-language model (e.g., BLIP, LLaVA, or custom architecture).  
+- **Framework:** Fine-tuned using a vision-language model (SmallVLM2).  
 
 ### 🖥 **Gradio Interface**  
 A user-friendly interface was developed to demo the model interactively:  
